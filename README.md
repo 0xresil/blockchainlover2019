@@ -16,7 +16,7 @@ My Skype id is live:.cid.a3a0169d7fb4a4f9
  
 ### Defi Smart Contracts - ERC20, Staking pool, Liquidity pool, Dexes, Proxy, Lottery, Voting
 ### NFT Smart Contracts - ERC721, ERC1155, Airdrop, Auctions, Trading, Fractionalize.
-### even Solana ( spl-tokens )
+### even Solana ( spl-tokens, candymachine, programs )
 ### Solidity, RUST
 ### React.js, Vue.js, Angular.js, nodeJS.
 <br />
