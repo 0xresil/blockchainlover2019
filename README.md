@@ -4,7 +4,6 @@
 
 <h3>Hi! Rebecca Bahr. Let's keep in touch with Skype.</h3><br/>
 <h3>My Skype id is live:.cid.a3a0169d7fb4a4f9</h3><br/>
-<h3>I will wait for you.</h3>
 
 <h1 align="center">
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
