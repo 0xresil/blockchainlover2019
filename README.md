@@ -1,7 +1,11 @@
 
 <h2 font-weight="bold">I love Blockchain. She is my wife.</h2>
 <p>Is blockchain male or female? I think latter is right. Because it procreated BitCoin, Ethereum and Solana, etc. So many sons and daughters.</p>
-My Skype id is live:.cid.a3a0169d7fb4a4f9
+
+##Hi! Rebecca Bahr. Let's keep in touch with Skype.
+##My Skype id is live:.cid.a3a0169d7fb4a4f9
+##I will wait for you.
+
 <h1 align="center">
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
   <a href="/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwork&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
