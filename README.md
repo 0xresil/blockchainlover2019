@@ -2,7 +2,6 @@
 <h2 font-weight="bold">I love Blockchain. She is my wife.</h2>
 <p>Is blockchain male or female? I think latter is right. Because it procreated BitCoin, Ethereum and Solana, etc. So many sons and daughters.</p>
 
-<h3>Hi! Rebecca Bahr. Let's keep in touch with Skype.</h3><br/>
 <h3>My Skype id is live:.cid.a3a0169d7fb4a4f9</h3><br/>
 
 <h1 align="center">
