@@ -19,11 +19,8 @@
 ### Ethereum
 #### Defi - ERC20, Staking pool, Liquidity pool, Dexes, Proxy, Lottery, Voting
 #### NFT - ERC721, ERC1155, Airdrop, Auctions, Trading, Fractionalize.
-### Solana ( spl-tokens, candymachine, RUST programs )
+### Solana ( spl-token, candymachine, RUST programs )
 #### DeFi - Token Program & Swap, Lending, Staking, etc
-#### NFT - Metaplex NFT - Minting Site and NFT marketplace, MasterEdition & Editions of NFT.
-### Languages
-#### Solidity, RUST, Javascript
-### Others: React.js, NodeJS.
+#### NFT - Metaplex NFT - NFT Minting Site and NFT marketplace, MasterEdition & Editions of NFT.
 <br />
 </div>
