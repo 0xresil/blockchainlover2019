@@ -15,11 +15,15 @@
 
 <div>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
- 
-### Defi Smart Contracts - ERC20, Staking pool, Liquidity pool, Dexes, Proxy, Lottery, Voting
-### NFT Smart Contracts - ERC721, ERC1155, Airdrop, Auctions, Trading, Fractionalize.
-### even Solana ( spl-tokens, candymachine, RUST programs )
-### Solidity, RUST
-### React.js, Vue.js, Angular.js, nodeJS.
+
+### Ethereum
+#### Defi - ERC20, Staking pool, Liquidity pool, Dexes, Proxy, Lottery, Voting
+#### NFT - ERC721, ERC1155, Airdrop, Auctions, Trading, Fractionalize.
+### Solana ( spl-tokens, candymachine, RUST programs )
+#### DeFi - Token Program & Swap, Lending, Staking, etc
+#### NFT - Metaplex NFT - Minting Site and NFT marketplace, MasterEdition & Editions of NFT.
+### Languages
+#### Solidity, RUST, Javascript
+### Others: React.js, NodeJS.
 <br />
 </div>
