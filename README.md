@@ -14,7 +14,7 @@
 ## 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨
 
 <div>
-<img align="right" alt="GIF" src="https://github.com/blockchainlover2019/blockchainlover2019/blob/main/punk.png" width="200" height="300" />
+<img align="right" alt="GIF" src="https://github.com/blockchainlover2019/blockchainlover2019/blob/main/punk.png" width="250" height="300" />
 
 ### Ethereum
 #### Defi - ERC20, Staking pool, Liquidity pool, Dexes, Proxy, Lottery, Voting
