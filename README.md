@@ -20,7 +20,7 @@
 #### Defi - ERC20, Dex as Uniswap, Upgradable Contract, Lottery, Governance
 #### NFT - ERC721, ERC1155, Airdrop, Auctions, Staking, Fractionalize.
 ### Solana ( spl-token, candymachine, RUST programs )
-#### DeFi - Token Program & Swap, Lending, Staking, etc
+#### DeFi - Token, DeFi as Serum or Raydium etc
 #### NFT - Metaplex NFT - NFT Minting Site and NFT marketplace, MasterEdition & Editions of NFT.
 <br />
 </div>
