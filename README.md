@@ -17,8 +17,8 @@
 <img align="right" alt="GIF" src="https://github.com/blockchainlover2019/blockchainlover2019/blob/main/punk.png" width="250" height="300" />
 
 ### Ethereum
-#### Defi - ERC20, Staking pool, Liquidity pool, Dexes, Proxy, Lottery, Voting
-#### NFT - ERC721, ERC1155, Airdrop, Auctions, Trading, Fractionalize.
+#### Defi - ERC20, Dex as Uniswap, Upgradable Contract, Lottery, Governance
+#### NFT - ERC721, ERC1155, Airdrop, Auctions, Staking, Fractionalize.
 ### Solana ( spl-token, candymachine, RUST programs )
 #### DeFi - Token Program & Swap, Lending, Staking, etc
 #### NFT - Metaplex NFT - NFT Minting Site and NFT marketplace, MasterEdition & Editions of NFT.
