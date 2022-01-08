@@ -13,8 +13,9 @@
 ### Ethereum
 #### Defi - ERC20, Dex as Uniswap, Upgradable Contract, Lottery, Governance
 #### NFT - ERC721, ERC1155, Airdrop, Auctions, Staking, Fractionalize.
-### Solana ( spl-token, candymachine, RUST programs )
-#### DeFi - Token, DeFi as Serum or Raydium etc
-#### NFT - Metaplex NFT - NFT Minting Site and NFT marketplace, MasterEdition & Editions of NFT.
+  
+### Solana - Senior RUST/Anchor Developer
+#### DeFi - Experience in Serum, Raydium, Saber, Sunny, Crate...
+#### NFT - Metaplex NFT - NFT Minting Site and NFT marketplace, NFT Game, MasterEdition & Editions of NFT.
 <br />
 </div>
