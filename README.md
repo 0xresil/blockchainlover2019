@@ -18,7 +18,7 @@
 #### NFT - Metaplex NFT - NFT Minting Site and NFT marketplace, NFT Game, MasterEdition & Editions of NFT.
 <br />
   
-![](https://komarev.com/ghpvc/?username=zicklag&color=dc143c)
+![](https://komarev.com/ghpvc/?username=blockchainlover2019&color=dc143c)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zicklag&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blockchainlover2019&show_icons=true)
 </div>
