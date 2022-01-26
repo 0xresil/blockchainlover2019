@@ -21,5 +21,5 @@
 ![](https://komarev.com/ghpvc/?username=blockchainlover2019&color=dc143c)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blockchainlover2019&show_icons=true)
-  <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=black-wyvern-dev&layout=compact&theme=monokai&count_private=true">
+  <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=blockchainlover2019&layout=compact&theme=monokai&count_private=true">
 </div>
