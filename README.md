@@ -9,13 +9,9 @@
 <div>
 <img align="right" alt="GIF" src="https://github.com/blockchainlover2019/blockchainlover2019/blob/main/punk.png" width="250" height="300" />
 
-### Ethereum
-#### Defi - ERC20, Dex as Uniswap, Upgradable Contract, Lottery, Governance
-#### NFT - ERC721, ERC1155, Airdrop, Auctions, Staking, Fractionalize.
-  
 ### Solana - Senior RUST/Anchor Developer
-#### DeFi - Experience in Serum, Raydium, Saber, Sunny, Crate...
-#### NFT - Metaplex NFT - NFT Minting Site and NFT marketplace, NFT Game, MasterEdition & Editions of NFT.
+#### DeFi - TokenSwap, Yield Farming, Staking. Experience in Serum's on-chain OrderBook.
+#### NFT - NFT Minting Site, NFT Staking, NFT marketplace, NFT Game, MasterEdition & Editions of NFT.
 <br />
   
 ![](https://komarev.com/ghpvc/?username=blockchainlover2019&color=dc143c)
