@@ -10,7 +10,12 @@
 <img align="right" alt="GIF" src="https://github.com/blockchainlover2019/blockchainlover2019/blob/main/punk.png" width="250" height="300" />
 
 ### Solana - Senior RUST/Anchor Developer
-#### DeFi - TokenSwap, Yield Farming, Staking. Experience in Serum's on-chain OrderBook.
+#### DeFi 
+  * TokenSwap, 
+  * Yield Farming, 
+  * Staking. project-serum/stake
+  * Experience in Serum's on-chain OrderBook.
+##### 
 #### NFT - NFT Minting Site, NFT Staking, NFT marketplace, NFT Game, MasterEdition & Editions of NFT.
 <br />
   
